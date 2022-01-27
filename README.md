@@ -23,6 +23,8 @@ Total files include in this project:
 
 ## **Data Source**
 
+![Slide5](https://user-images.githubusercontent.com/66448653/151276688-0f9363f3-ba70-4d99-817a-f999cac56f57.PNG)
+
 ## **Data Remediation & Exploratory Data Analysis**
 
 ## **Data Modelling and Results**
