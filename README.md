@@ -27,6 +27,17 @@ Total files include in this project:
 
 ## **Data Remediation & Exploratory Data Analysis**
 
+![Slide6](https://user-images.githubusercontent.com/66448653/151276852-14e3f9bf-2a8b-4636-aa1e-15df8863081e.PNG)
+![Slide7](https://user-images.githubusercontent.com/66448653/151276856-3fff6fc0-7e55-46c9-8e6e-54190973a29c.PNG)
+![Slide8](https://user-images.githubusercontent.com/66448653/151276857-f0588612-ce36-4c50-8421-6be2bf22cc62.PNG)
+![Slide9](https://user-images.githubusercontent.com/66448653/151276859-a218d925-74a8-4e55-be31-0f2f707a7565.PNG)
+![Slide10](https://user-images.githubusercontent.com/66448653/151276860-8363c48c-8a6d-4d87-b26e-8f4ea347cad9.PNG)
+![Slide11](https://user-images.githubusercontent.com/66448653/151276863-5a596206-6930-4469-b081-417899ff1051.PNG)
+![Slide12](https://user-images.githubusercontent.com/66448653/151276870-4693f08d-46f0-44a3-9a9c-c2d5ce836645.PNG)
+![Slide13](https://user-images.githubusercontent.com/66448653/151276874-9cc874d0-03c0-4b7c-bceb-04a07d4867f7.PNG)
+![Slide14](https://user-images.githubusercontent.com/66448653/151276875-341df61b-85c6-4a41-953a-3b7a567ad020.PNG)
+![Slide15](https://user-images.githubusercontent.com/66448653/151276877-c1ec1baa-5fac-4fb9-9c88-ae99793b6617.PNG)
+
 ## **Data Modelling and Results**
 
 ## **References**
