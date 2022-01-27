@@ -15,6 +15,8 @@ Total files include in this project:
 
 ## **Elevator Pitch Video**
 
+[https://www.youtube.com/watch?v=0JckqfIgI6k](https://www.youtube.com/watch?v=0JckqfIgI6k)
+
 ## **Motivation & Goals**
 
 ## **Data Source**
