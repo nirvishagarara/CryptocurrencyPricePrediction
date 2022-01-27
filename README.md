@@ -11,6 +11,8 @@ Total files include in this project:
 4. project_linear_regression_finalDraft.ipynb
 5. LSTM_project_finalDraft.ipynb
 
+## **Elevator Pitch Video**
+
 ## **Motivation & Goals**
 
 ## **Data Source**
