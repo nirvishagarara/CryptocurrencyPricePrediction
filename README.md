@@ -19,6 +19,8 @@ Total files include in this project:
 
 ## **Motivation & Goals**
 
+![Slide3](https://user-images.githubusercontent.com/66448653/151276580-12a65335-bc22-4760-9dbe-f658cad2d58e.PNG)
+
 ## **Data Source**
 
 ## **Data Remediation & Exploratory Data Analysis**
