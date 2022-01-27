@@ -40,6 +40,9 @@ Total files include in this project:
 
 ## **Data Modelling and Results**
 
+![Slide16](https://user-images.githubusercontent.com/66448653/151276974-8bf4f2a8-f66a-4376-9b64-4e9190c9ab07.PNG)
+![Slide17](https://user-images.githubusercontent.com/66448653/151276975-2b62dcdc-5d73-4820-9122-8010c33da84f.PNG)
+
 ## **References**
 
 
